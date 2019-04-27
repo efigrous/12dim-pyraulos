@@ -2,4 +2,4 @@
 ### ομάδα Πύραυλος - 12ο Δημοτικό σχολείο Περιστερίου
  συμμετοχή στον 1ο Πανελλήνιο διαγωνισμό ρομποτικής ανοιχτών τεχνολογιών    
  
- ![Tux, the Linux mascot](/hardware design/model.png)
+ ![Tux, the Linux mascot](/Hardware design/model.png)
