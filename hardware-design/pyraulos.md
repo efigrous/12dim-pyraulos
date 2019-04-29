@@ -19,4 +19,4 @@ To σχέδιο του συστήματος εκτόξευσης του πυρα
 
 Το βίντεο της υλοποίησης της εφαρμογής
 
-[![ε](http://img.youtube.com/vi/PwY_zjNREfU/0.jpg)](http://www.youtube.com/watch?v=PwY_zjNREfU "Εκτόξευση πυραύλου - final CountDown - 12o Δημοτικό σχολείο Περιστερίου")
+[![](http://img.youtube.com/vi/xqq8Pi5Mwuc/0.jpg)](http://www.youtube.com/watch?v=xqq8Pi5Mwuc "")
