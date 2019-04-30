@@ -1,3 +1,5 @@
+// To πρόγραμμα που τρέχει στο Arduino
+
 // Include the Servo library
 #include <Servo.h> 
 
